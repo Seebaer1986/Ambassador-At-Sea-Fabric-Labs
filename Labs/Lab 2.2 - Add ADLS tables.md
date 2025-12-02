@@ -24,7 +24,7 @@ Create shortcuts to the raw tables from our ERP system and establish some busine
    - SAS-Token: `?sv=2023-01-03&ss=btqf&srt=sco&st=2025-06-30T10%3A15%3A46Z&se=2026-06-30T10%3A15%3A00Z&sp=rl&sig=hVeyxY4F72YVH3X%2BlnIvVTg8M%2FwZgLIhDzBgHlv1580%3D`
 ![](imgs/Lab22_02.png)
 
-9. Select the following tables:
+9. From the folder `Delta-Parquet-Format-FY25`, select the following tables:
   
    - Application.Cities
 
